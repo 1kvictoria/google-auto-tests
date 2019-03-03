@@ -1,0 +1,8 @@
+{
+  "baseUrl": "",
+  "env": {
+    "google_homepage": "https://google.com/",
+    "user1_login": "test.boober@gmail.com",
+    "user1_password": "Cards@000"
+  }
+}
